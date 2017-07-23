@@ -1,24 +1,23 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/redeem-hi5.jpg
+title: Redeem HI-5
+permalink: projects/redeem-hi5
 date: 2015
 labels:
+  - HTML 5
   - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Vue.js
+  - Webpack
+  - Open Data
+summary: A web application for finding the nearest recycling centers.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated image" src="../images/redeem-hi5-2.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Redeem HI5 is a mobile web application that uses the device's location to find the nearest recycling centers. It was built using Vue.js and Webpack and was an experiment in seeing how Vue.js works.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+For this app, I designed the layout myself and built it using CSS flexbox. The app also has offline support, so once the list of recycling centers is downloaded it is cached on the device, so the device does not need to be connected to the internet for the website to work.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/keokilee/hi5-redemption"><i class="large github icon"></i>keokilee/hi5-redemption</a>
