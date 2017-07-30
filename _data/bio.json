@@ -2,7 +2,7 @@
   "basics": {
     "name": "George Lee",
     "label": "Lecturer",
-    "picture": "/images/profile.jpg",
+    "picture": "images/profile.jpg",
     "email": "gelee@hawaii.edu",
     "phone": "",
     "website": "https://keokilee.github.io/techfolio",
