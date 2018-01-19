@@ -1,25 +1,19 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/Cash Drawer.jpg
+title: The Change Machine
+permalink: projects/ChangeMachine
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-01-18
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+summary: Tell you how many coins to give for change
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+  This was one of the first Projects I did as a freshman coming first starting computer programming. of course, this is super easy now that I’ve gone through a few more computer programming classes this is still the first major project I did as a computer programmer, so it has a lot of sentimental value. It functions as a change maker. It tells you how many coins (Quarters, Dimes, Nickels, Pennies) to give as change given an amount.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+  This was done probably after 2 or 3 weeks of learning basic java in ICS 111. This while not being the most complicated or even difficult things to program, it still stands out to me as the first step I took in being a programmer. I learned a lot just about how a program should flow and how I should think about the program as a series of steps that need to be repeated to get what you want done. Still super proud of this simple one.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Check out the code at
+https://docs.google.com/document/d/11TdsfIQAXX9CEmSX92ie_dNuaX0ZcFeDqJmtANSNcyQ/edit?usp=sharing
