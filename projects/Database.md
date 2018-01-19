@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+title: Account Database
+permalink: projects/accountdatabase
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-01-18
 labels:
   - Account Database
   - C++
-summary: As a project for ICS 212 we were assigned to create an account databse for class.
+summary: As a project for ICS 212 we were had to create an account database.
 ---
 
   In ICS 212 we learned C and C++, and one of the very first few homework’s we did was to create a database using C. when we first began we just made the menu and used stubs for the methods. After that while doing other homework’s we eventually came back to the database doing pseudo code for the methods and slowly building up the database. Eventually we did our first project on making the complete database. We came back to it after we started learning C++. Eventually starting project 2 we had to rebuild the database in C++, using project 1 as a base. 
