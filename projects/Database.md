@@ -16,7 +16,6 @@ summary: As a project for ICS 212 we were had to create an account database.
   
   Considering this was one of the larger projects that basically was built upon all semester in the class, it holds a special sentiment to me in that it took many hours and much hair pulling to get it done. In the end it holds sentimental value to me and is probably one of the few projects I have worked on for a long period of time. I learned a lot with this one, specifically to always check my parentheses and curly braces. This one was a lot of fun and I hope to be able to make more like these in the future. 
 
-  You can check out the code on the following link
+  You can check out the code at
   https://docs.google.com/document/d/15LdDLXmdQb_9jVn1ftFwX4IQIsL77_C60micLFe_r0Y/edit?usp=sharing
-
 
