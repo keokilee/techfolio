@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: images/Scale.png
-title: Cotton
+image: images/Scale.jpg
+title: Pounds to Kilograms Converter
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
