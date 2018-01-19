@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/Database.jpg
 title: Account Database
 permalink: projects/accountdatabase
 # All dates must be YYYY-MM-DD format!
