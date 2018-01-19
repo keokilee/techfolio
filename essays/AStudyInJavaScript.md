@@ -1,4 +1,16 @@
-A Study in JavaScript
+---
+layout: essay
+type: essay
+title: A Study In JavaScript
+# All dates must be YYYY-MM-DD format!
+date: 2018-01-19
+labels:
+  - Computer Programming
+  - Learning
+  - JavaScript
+---
+
+## A Study in JavaScript
 
   JavaScript is a programming language based off of java but is used alongside HTML and CSS for Webpages making them interactive and providing online programs. All modern web browsers support it without the need for plugins. 
 Considering how much of it is based off Java it was relatively easy for me to learn and the FreeCodeCamp helped a lot as well. I definitely haven’t learned everything there is in JavaScript but it is definitely a start at least. I think if I had not learned Java previously it would have taken me a lot longer and I wouldn’t have been able to understand all the stuff that I could do with what I learned but it is easier and more intuitive in most cases compared to some other coding languages I’ve seen or heard.
