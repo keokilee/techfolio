@@ -1,4 +1,3 @@
-
 {
   "basics": {
     "name": "Jeffery Wood",
@@ -7,7 +6,8 @@
     "email": "jwoodii@hawaii.edu",
     "phone": "808-277-7381",
     "website": "https://jwoodii.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary":
+      "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
       "postalCode": "96816",
@@ -25,52 +25,41 @@
         "network": "linkedin",
         "username": "jwoodii",
         "url": "http://linkedin.com/in/jeffery-wood"
-      },
+      }
     ]
   },
   "interests": [
     {
       "name": "Video Games",
-      "keywords": [
-        "Steam",
-        "Fallout 4"
-      ]
+      "keywords": ["Steam", "Fallout 4"]
     },
     {
       "name": "Video Game Design",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "Hangin with Friends",
-      "keywords": [
-      ]
+      "keywords": []
     }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
       "level": "Some Experience",
-      "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-      ]
-    },
-    ]
-},
-  "education": [ {
+      "keywords": ["C", "C++", "Java", "Javascript"]
+    }
+  ],
+  "education": [
+    {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2020)",
       "studyType": "B.S.",
       "startDate": "2016-09-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": []
     }
-   ],
+  ],
   "work": [
     {
       "company": "City Mill",
@@ -82,8 +71,8 @@
       "highlights": [
         "Help and guide Customers with question or problems as well as knowing products in the Department"
       ]
-    },
-    ]
+    }
+  ],
   "references": [
     {
       "name": "Available upon request",
